@@ -1,0 +1,16 @@
+D:\Kuchmel\TestGit\test\TestGit\bin\Debug\net5.0\TestGit.exe
+D:\Kuchmel\TestGit\test\TestGit\bin\Debug\net5.0\TestGit.deps.json
+D:\Kuchmel\TestGit\test\TestGit\bin\Debug\net5.0\TestGit.runtimeconfig.json
+D:\Kuchmel\TestGit\test\TestGit\bin\Debug\net5.0\TestGit.runtimeconfig.dev.json
+D:\Kuchmel\TestGit\test\TestGit\bin\Debug\net5.0\TestGit.dll
+D:\Kuchmel\TestGit\test\TestGit\bin\Debug\net5.0\ref\TestGit.dll
+D:\Kuchmel\TestGit\test\TestGit\bin\Debug\net5.0\TestGit.pdb
+D:\Kuchmel\TestGit\test\TestGit\obj\Debug\net5.0\TestGit.csproj.AssemblyReference.cache
+D:\Kuchmel\TestGit\test\TestGit\obj\Debug\net5.0\TestGit.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kuchmel\TestGit\test\TestGit\obj\Debug\net5.0\TestGit.AssemblyInfoInputs.cache
+D:\Kuchmel\TestGit\test\TestGit\obj\Debug\net5.0\TestGit.AssemblyInfo.cs
+D:\Kuchmel\TestGit\test\TestGit\obj\Debug\net5.0\TestGit.csproj.CoreCompileInputs.cache
+D:\Kuchmel\TestGit\test\TestGit\obj\Debug\net5.0\TestGit.dll
+D:\Kuchmel\TestGit\test\TestGit\obj\Debug\net5.0\ref\TestGit.dll
+D:\Kuchmel\TestGit\test\TestGit\obj\Debug\net5.0\TestGit.pdb
+D:\Kuchmel\TestGit\test\TestGit\obj\Debug\net5.0\TestGit.genruntimeconfig.cache
